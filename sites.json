@@ -381,11 +381,6 @@
       }
     },
     {
-      "name": "爱酷API",
-      "type": 1,
-      "url": "https://api.json.icu/api/?key=9a820717fcc751d583a6bb36a15a5b6a&url="
-    },
-    {
       "name": "Faka解析",
       "type": 0,
       "url": "https://vip.lianfaka.com/vip/?url=",
